@@ -1,0 +1,33 @@
+
+.margetop10{
+    /* margin-top: 60px; */
+    margin:10px 0px ;
+    /* padding: ; */
+}
+.margetop60{
+    /* margin-top: 60px; */
+    margin:60px 0px ;
+    /* padding: ; */
+}
+.margetop70{
+    /* margin-top: 60px; */
+    margin:70px  0px 0px 0px ;
+    /* padding: ; */
+}
+.margetop80{
+    /* margin-top: 60px; */
+    margin:80px 0px ;
+    /* padding: ; */
+}
+.except{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: x-large;
+    color : darkorange;
+    border-radius: 1px white ;
+}
+.def{
+    margin: 70 5px ;
+}
+#centre a{
+    text-align: left;
+}

@@ -1,0 +1,16 @@
+4;ES-SARAOUI;MOUNIM;LK123123;1996-06-03;ben hmad;stat;moun.im_essaraoui@gmail.com;2020-06-09;Informaticien;sous admin;SOUS_ADMIN
+5;BERIAHI;BRAHIM;BR234467;1993-10-12;boulvard alkhamiss rue 32 darb gandaoui;kenetra;beriahi_brahmi@gmail.com;2123-12-31;SITEL;sous admin;SOUS_ADMIN
+7;AJANA;LATIFA;P213423;2002-06-03;ti3zite;bnimalal;latifa_hbibtti@brahim.loveyou;2020-06-10;rabat bayt;sous admin;SOUS_ADMIN
+8;MOUSLIM;ELKHADAR;MP123412;2020-06-02;boulvard ebdelkhalaq torres wilaya;tetouan;Mr.mouslim_elkhadar@hotmail.com;1982-09-22;developpeur;admin;ADMIN_GENERAL
+9;ERRACHIDI;MOHAMED;p23445634;1989-06-05;zawyat ghassate;ouarzazate;med.errachidi@gmail.com;2003-06-10;technicien;public;PUBLIC
+10;BALCHITI;RACHID;P34245;1988-06-02;lahssoun skoura;ouarazate;balchiti_rachid@gmail.fr;2022-07-01;Española ;sous admin;SOUS_ADMIN
+11;ELBANAJI;BRAHIM;PO23443;2020-07-23;ghassate;ouarzazate;elbanaji.brahim@gmail.com;2020-07-17;technicien;admin;ADMIN_GENERAL
+12;ELBANAJI;BRAHIM;PO23443;2020-07-23;ghassate;ouarzazate;elbanaji.brahim@gmail.com;2020-07-17;technicien;admin;ADMIN_GENERAL
+13;ELBANAJI;BRAHIM;PO23443;2020-07-23;ghassate;ouarzazate;elbanaji.brahim@gmail.com;2020-07-17;technicien;admin;ADMIN_GENERAL
+14;HAMID;KARIM;ER23443;1990-04-13;BEZOU;BNIMALA;hamid_bzou@gmail.com;2000-03-12;informaticien;admin;SOUS_ADMIN
+15;MOUSL;ELKHARM;P141;2020-04-22;boulvard ebdelhalaq ;chaouan;Mr.mouslim_elkhadar@hotmail.com;1982-09-22;developpeur;admin;ADMIN_GENERAL
+16;MOUSAID;KARIM ;LO12312;2002-11-03;buvad edelhalq  Tores you write more this will be saved incha allah;tetouan ;r.supisi@hotmail.com;2004-11-12;developpeur;admin;SOUS_ADMIN
+17;KADOUR;KALSKE;DF24345;1233-12-09;hay zarktoiuni;taroudant;ghra.kjerhkzer@gmail.com;2020-07-08;developpeur;public;public
+18;JAOUAD;KAHOUCJF;PL44334;2020-06-30;bojaozej jdida;jdida;belle_ville@gmail.com;2020-07-05;SITEL;user;user
+19;AIMAD;ACHMARKI;PO35345546;2020-07-01;hay bosakob taza;taza ville;borj_milha@gmail.com;2020-06-28;technicien;user;user
+20;BABA;TORI;ACAM11341;2200-12-02;rue najah boso;marzgan ci;r.mom_elkar@hotmail.com;1990-12-22;technicien;fofo;FOFOFAFA
